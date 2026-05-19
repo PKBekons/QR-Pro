@@ -4,8 +4,8 @@ A Adobe Illustrator script that generates a vector QR code directly in your acti
 
 > QR engine by [Kazuhiko Arase](https://github.com/kazuhikoarase/qrcode-generator) (MIT licence)
 
----
-<img width="704" height="520" alt="QR-Pro" src="https://github.com/user-attachments/assets/370832f5-281a-4da2-91df-937133e039f1" />
+<img width="1280" height="640" alt="QR-Pro-GitSocial" src="https://github.com/user-attachments/assets/83e4f62a-a58e-48c3-9605-e60c96e3089b" />
+
 ---
 
 ## Features
@@ -38,6 +38,7 @@ A Adobe Illustrator script that generates a vector QR code directly in your acti
 
 Alternatively, run it directly at any time via **File → Scripts → Other Script...** without restarting.
 
+
 ---
 
 ## Usage
@@ -52,6 +53,9 @@ Alternatively, run it directly at any time via **File → Scripts → Other Scri
 4. Press **Enter** or click **Generate QR Code**
 
 The QR code is placed in the top-left area of the active artboard as a grouped object named `QR_code`.
+
+
+<img width="704" height="520" alt="QR-Pro" src="https://github.com/user-attachments/assets/370832f5-281a-4da2-91df-937133e039f1" />
 
 ---
 
